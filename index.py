@@ -12,12 +12,6 @@ import my_module.py
 my_module.greeting('musa')
 
 
-import my_module.py
-my_module.greeting('musa')
-
-
-
-
 
 
 
