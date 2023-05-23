@@ -150,3 +150,6 @@ my_module.greeting('musa')
 
 # f = "are you really, sure you need it"
 # print(f.split()) # return ["are you really' 'sure you need it"]
+
+y = "hello to everyone in the room"
+print (y)
