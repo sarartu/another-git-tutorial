@@ -153,3 +153,11 @@ my_module.greeting('musa')
 
 y = "hello to everyone in the room"
 print (y)
+
+document = {git 
+    "id":28226,
+    "type":"confidential",
+    "year": 2022,
+    "date": 2023/3/12 
+} 
+print(document)
