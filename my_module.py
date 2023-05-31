@@ -34,6 +34,3 @@ print(w)
 def family(first_name):
   print("hello,"+ first_name)
 
-
-
-  
